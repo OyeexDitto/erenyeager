@@ -1,2 +1,2 @@
 # erenyeager
-tatakae tatakae shinzo wo sasageyo (this is my first repository)
+sono sharingan omae wa doko made meiteru
